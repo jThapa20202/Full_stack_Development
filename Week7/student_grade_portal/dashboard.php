@@ -21,7 +21,7 @@ body {
 </head>
 <body>
 
-<h2>Welcome, <?= $_SESSION['student_id']; ?> 🎓</h2>
+<h2>Welcome, <?= $_SESSION['student_id']; ?> </h2>
 
 <nav>
     <a href="dashboard.php">Dashboard</a> |
