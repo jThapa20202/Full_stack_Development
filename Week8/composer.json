@@ -1,0 +1,19 @@
+{
+    "name": "acer/week8",
+    "autoload": {
+        "psr-4": {
+            "Acer\\Week8\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JeshikaThapaliya",
+            "email": "thapaliya.jeshika@gmail.com"
+        }
+    ],
+    "require": {
+        "illuminate/view": "^9.52",
+        "illuminate/filesystem": "^9.52",
+        "illuminate/events": "^9.52"
+    }
+}
